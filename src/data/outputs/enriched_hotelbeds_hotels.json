@@ -1,0 +1,1616 @@
+[
+  {
+    "_id": {
+      "oid": "6909d03dfd4965e36a3ff9bd"
+    },
+    "placeId": "ChIJAzM6FfvLGg0Rjgh5fevP8w0",
+    "hotelCode": "HB005662",
+    "name": "Apartamentos Soldoiro",
+    "rooms": [
+      {
+        "id": "6909cfeaf275a9445371cd0b",
+        "roomCode": "APT-VM-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 2
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd0c",
+        "roomCode": "APT-B1-VM",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 2
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd0d",
+        "roomCode": "APT-B1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 2,
+          "minAdult": 1,
+          "maxAdults": 2,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd0e",
+        "roomCode": "APT-B1-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 2
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd0f",
+        "roomCode": "APT-B1-10",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd10",
+        "roomCode": "APT-B1-2",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd11",
+        "roomCode": "APT-B1-C4",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 4 ONE BEDROOM"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd12",
+        "roomCode": "APT-B2",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd13",
+        "roomCode": "APT-B2-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd14",
+        "roomCode": "APT-B2-6",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd15",
+        "roomCode": "APT-B2-VM",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd16",
+        "roomCode": "APT-B3-VM",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW THREE BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd17",
+        "roomCode": "APT-C4-VM",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW CAPACITY 4"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd18",
+        "roomCode": "APT-EY",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ECONOMY"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd19",
+        "roomCode": "APT-ST-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1a",
+        "roomCode": "APT-VM",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1b",
+        "roomCode": "APT-VM-6",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1c",
+        "roomCode": "APT-WV-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT WITH VIEWS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1d",
+        "roomCode": "APT-SS",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT SIDE SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1e",
+        "roomCode": "DBL-AS",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE CLASSIC"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd1f",
+        "roomCode": "DBL-B2",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd20",
+        "roomCode": "DBL-B2-VM",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE SEA VIEW TWO BEDROOMS"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd21",
+        "roomCode": "DBL-ST",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd22",
+        "roomCode": "DBL-VM",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd23",
+        "roomCode": "DUS-ST",
+        "name": "DUS",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 2,
+          "minAdult": 1,
+          "maxAdults": 1,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE SINGLE USE STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd24",
+        "roomCode": "QUA-ST",
+        "name": "QUA",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 6,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "QUADRUPLE STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd25",
+        "roomCode": "ROO-RO",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room RUN OF HOUSE"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd26",
+        "roomCode": "SGL-ST",
+        "name": "SGL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 1,
+          "minAdult": 1,
+          "maxAdults": 1,
+          "maxChildren": 0
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "SINGLE STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd27",
+        "roomCode": "STU-AS",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO CLASSIC"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd28",
+        "roomCode": "STU-AS-6",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO CLASSIC"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd29",
+        "roomCode": "STU-AS-VM",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO CLASSIC SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2a",
+        "roomCode": "STU-EY",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO ECONOMY"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2b",
+        "roomCode": "STU-ST",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2c",
+        "roomCode": "STU-ST-1",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2d",
+        "roomCode": "STU-ST-2",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2e",
+        "roomCode": "STU-VM",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 2,
+          "minAdult": 1,
+          "maxAdults": 2,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd2f",
+        "roomCode": "STU-VM-1",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd30",
+        "roomCode": "STU-VM-2",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd31",
+        "roomCode": "STU-VM-6",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO SEA VIEW"
+      },
+      {
+        "id": "6909cfeaf275a9445371cd32",
+        "roomCode": "TPL-ST",
+        "name": "TPL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "9524",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 3,
+          "maxChildren": 4
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "TRIPLE STANDARD"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "oid": "690c9d74f8b71f604c600e1b"
+    },
+    "placeId": "ChIJzy8JSeEG5xQRb2idaClMJV4",
+    "hotelCode": "HB090090",
+    "name": "Princessa Vera Hotel Apts",
+    "rooms": [
+      {
+        "id": "690c9d1655b5b98d2d4381bd",
+        "roomCode": "APT-B1-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 3,
+          "maxChildren": 2
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "690c9d1655b5b98d2d4381be",
+        "roomCode": "APT-B1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "690c9d1655b5b98d2d4381bf",
+        "roomCode": "ROO-EY",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room ECONOMY"
+      },
+      {
+        "id": "690c9d1655b5b98d2d4381c0",
+        "roomCode": "STU-ST",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 3,
+          "minAdult": 1,
+          "maxAdults": 2,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "690c9d1655b5b98d2d4381c1",
+        "roomCode": "STU-ST-1",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "690c9d1655b5b98d2d4381c2",
+        "roomCode": "STU-SU",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "372989",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 3,
+          "minAdult": 1,
+          "maxAdults": 2,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO SUPERIOR"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "oid": "690ba67331f875c008e9324d"
+    },
+    "placeId": "ChIJM2yEZeEoGw0RnWoWB17Mur0",
+    "hotelCode": "HB030816",
+    "name": "Flor Da Rocha",
+    "rooms": [
+      {
+        "id": "690ee4935cc56d5d8db3a396",
+        "roomCode": "APT-B1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a397",
+        "roomCode": "APT-B1-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT ONE BEDROOM"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a398",
+        "roomCode": "APT-B1-C2",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 2,
+          "minAdult": 1,
+          "maxAdults": 2,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 2 ONE BEDROOM"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a399",
+        "roomCode": "APT-B2",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 6,
+          "minAdult": 1,
+          "maxAdults": 6,
+          "maxChildren": 4
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT TWO BEDROOMS"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39a",
+        "roomCode": "APT-B2-1",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT TWO BEDROOMS"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39b",
+        "roomCode": "APT-B2-C4",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 2
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 4 TWO BEDROOMS"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39c",
+        "roomCode": "APT-C2",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 2"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39d",
+        "roomCode": "APT-C4",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 4"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39e",
+        "roomCode": "APT-C6",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT CAPACITY 6"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a39f",
+        "roomCode": "APT-ST",
+        "name": "APT",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "APARTMENT STANDARD"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a0",
+        "roomCode": "DBL-2D",
+        "name": "DBL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 4,
+          "minAdult": 1,
+          "maxAdults": 4,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE TWO DOUBLE BEDS"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a1",
+        "roomCode": "DUS-ST",
+        "name": "DUS",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 2,
+          "minAdult": 1,
+          "maxAdults": 1,
+          "maxChildren": 1
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "DOUBLE SINGLE USE STANDARD"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a2",
+        "roomCode": "ROO-B2",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room TWO BEDROOMS"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a3",
+        "roomCode": "ROO-H6",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room Accessible"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a4",
+        "roomCode": "ROO-RO",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room RUN OF HOUSE"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a5",
+        "roomCode": "ROO-ST",
+        "name": "ROO",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 10,
+          "minAdult": 1,
+          "maxAdults": 10,
+          "maxChildren": 6
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "Room STANDARD"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a6",
+        "roomCode": "SGL-ST",
+        "name": "SGL",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 1,
+          "minAdult": 1,
+          "maxAdults": 1,
+          "maxChildren": 0
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "SINGLE STANDARD"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a7",
+        "roomCode": "STU-ST",
+        "name": "STU",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 5,
+          "minAdult": 1,
+          "maxAdults": 5,
+          "maxChildren": 3
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "STUDIO STANDARD"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a8",
+        "roomCode": "SUI-H6",
+        "name": "SUI",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 8,
+          "minAdult": 1,
+          "maxAdults": 8,
+          "maxChildren": 5
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "SUITE Accessible"
+      },
+      {
+        "id": "690ee4935cc56d5d8db3a3a9",
+        "roomCode": "SUI-ST",
+        "name": "SUI",
+        "providers": [
+          {
+            "name": "hotelbeds",
+            "code": "133785",
+            "id": "662b7e48eb4eb35669213a2e",
+            "mappingMethod": "google_places",
+            "mappingRemark": "mapping_with_all"
+          }
+        ],
+        "occupancies": {
+          "minOccupancy": 1,
+          "maxOccupancy": 8,
+          "minAdult": 1,
+          "maxAdults": 8,
+          "maxChildren": 5
+        },
+        "prices": null,
+        "images": [],
+        "codeDescription": "SUITE STANDARD"
+      }
+    ]
+  }
+]

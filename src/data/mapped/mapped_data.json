@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-18T18:07:12.993763",
+    "similarity_threshold": 0.75,
+    "matching_strategy": "rank_1_only",
+    "model": "all-MiniLM-L6-v2",
+    "embedding_dim": 384
+  },
+  "summary": {
+    "total_hotel_pairs": 3,
+    "total_room_matches": 4,
+    "total_unmatched_rooms": {
+      "hotelbeds": 62,
+      "axisdata": 10
+    },
+    "room_similarity_stats": {
+      "mean": 0.8112975718907315,
+      "median": 0.7820752579090426,
+      "min": 0.7558801859502393,
+      "max": 0.9251595857946016
+    }
+  },
+  "hotel_pairs": [
+    {
+      "place_id": "ChIJAzM6FfvLGg0Rjgh5fevP8w0",
+      "confidence": 1.0,
+      "hotelbeds_hotel_code": "HB005662",
+      "hotelbeds_hotel_name": "Apartamentos Soldoiro",
+      "hotelbeds_total_rooms": 40,
+      "axisdata_hotel_code": "HB000004",
+      "axisdata_hotel_name": "Soldoiro",
+      "axisdata_total_rooms": 6,
+      "room_matches": [
+        {
+          "similarity_score": 0.7558801859502393,
+          "hotelbeds_room_code": "APT-B1-VM",
+          "hotelbeds_room_id": "6909cfeaf275a9445371cd0c",
+          "hotelbeds_text": "apartment sea view one bedroom",
+          "axisdata_room_code": "AP00T1SVB0",
+          "axisdata_room_id": "6908a87d6f4760ffdd6e4f5a",
+          "axisdata_text": "1 bedroom apartment seaview balcony"
+        },
+        {
+          "similarity_score": 0.7602539530473884,
+          "hotelbeds_room_code": "STU-VM",
+          "hotelbeds_room_id": "6909cfeaf275a9445371cd2e",
+          "hotelbeds_text": "studio sea view",
+          "axisdata_room_code": "ST0000SVB0",
+          "axisdata_room_id": "6908a87d6f4760ffdd6e4f5f",
+          "axisdata_text": "studio seaview balcony"
+        }
+      ],
+      "unmatched_hotelbeds_rooms": [
+        {
+          "room_code": "APT-VM-1",
+          "room_id": "6909cfeaf275a9445371cd0b",
+          "text": "apartment sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1",
+          "room_id": "6909cfeaf275a9445371cd0d",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1-1",
+          "room_id": "6909cfeaf275a9445371cd0e",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1-10",
+          "room_id": "6909cfeaf275a9445371cd0f",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1-2",
+          "room_id": "6909cfeaf275a9445371cd10",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1-C4",
+          "room_id": "6909cfeaf275a9445371cd11",
+          "text": "apartment capacity 4 one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B2",
+          "room_id": "6909cfeaf275a9445371cd12",
+          "text": "apartment two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B2-1",
+          "room_id": "6909cfeaf275a9445371cd13",
+          "text": "apartment two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B2-6",
+          "room_id": "6909cfeaf275a9445371cd14",
+          "text": "apartment two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B2-VM",
+          "room_id": "6909cfeaf275a9445371cd15",
+          "text": "apartment sea view two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B3-VM",
+          "room_id": "6909cfeaf275a9445371cd16",
+          "text": "apartment sea view three bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-C4-VM",
+          "room_id": "6909cfeaf275a9445371cd17",
+          "text": "apartment sea view capacity 4",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-EY",
+          "room_id": "6909cfeaf275a9445371cd18",
+          "text": "apartment economy",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-ST-1",
+          "room_id": "6909cfeaf275a9445371cd19",
+          "text": "apartment standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-VM",
+          "room_id": "6909cfeaf275a9445371cd1a",
+          "text": "apartment sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-VM-6",
+          "room_id": "6909cfeaf275a9445371cd1b",
+          "text": "apartment sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-WV-1",
+          "room_id": "6909cfeaf275a9445371cd1c",
+          "text": "apartment with views",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-SS",
+          "room_id": "6909cfeaf275a9445371cd1d",
+          "text": "apartment side sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-AS",
+          "room_id": "6909cfeaf275a9445371cd1e",
+          "text": "double classic",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-B2",
+          "room_id": "6909cfeaf275a9445371cd1f",
+          "text": "double two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-B2-VM",
+          "room_id": "6909cfeaf275a9445371cd20",
+          "text": "double sea view two bedrooms",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-ST",
+          "room_id": "6909cfeaf275a9445371cd21",
+          "text": "double standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-VM",
+          "room_id": "6909cfeaf275a9445371cd22",
+          "text": "double sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DUS-ST",
+          "room_id": "6909cfeaf275a9445371cd23",
+          "text": "double single use standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "QUA-ST",
+          "room_id": "6909cfeaf275a9445371cd24",
+          "text": "quadruple standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "ROO-RO",
+          "room_id": "6909cfeaf275a9445371cd25",
+          "text": "room run of house",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "SGL-ST",
+          "room_id": "6909cfeaf275a9445371cd26",
+          "text": "single standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-AS",
+          "room_id": "6909cfeaf275a9445371cd27",
+          "text": "studio classic",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-AS-6",
+          "room_id": "6909cfeaf275a9445371cd28",
+          "text": "studio classic",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-AS-VM",
+          "room_id": "6909cfeaf275a9445371cd29",
+          "text": "studio classic sea view",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-EY",
+          "room_id": "6909cfeaf275a9445371cd2a",
+          "text": "studio economy",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST",
+          "room_id": "6909cfeaf275a9445371cd2b",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST-1",
+          "room_id": "6909cfeaf275a9445371cd2c",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST-2",
+          "room_id": "6909cfeaf275a9445371cd2d",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-VM-1",
+          "room_id": "6909cfeaf275a9445371cd2f",
+          "text": "studio sea view",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "STU-VM-2",
+          "room_id": "6909cfeaf275a9445371cd30",
+          "text": "studio sea view",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "STU-VM-6",
+          "room_id": "6909cfeaf275a9445371cd31",
+          "text": "studio sea view",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "TPL-ST",
+          "room_id": "6909cfeaf275a9445371cd32",
+          "text": "triple standard",
+          "reason": "below_threshold"
+        }
+      ],
+      "unmatched_axisdata_rooms": [
+        {
+          "room_code": "AP00T200B0",
+          "room_id": "6908a87d6f4760ffdd6e4f5b",
+          "text": "2 bedroom apartment balcony",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "AP00T2SVB0",
+          "room_id": "6908a87d6f4760ffdd6e4f5c",
+          "text": "2 bedroom apartment seaview balcony",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "ST000000B0",
+          "room_id": "6908a87d6f4760ffdd6e4f5d",
+          "text": "studio balcony",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "AP00T100B0",
+          "room_id": "6908a87d6f4760ffdd6e4f5e",
+          "text": "1 bedroom apartment balcony",
+          "reason": "no_hotelbeds_match_found"
+        }
+      ]
+    },
+    {
+      "place_id": "ChIJM2yEZeEoGw0RnWoWB17Mur0",
+      "confidence": 1.0,
+      "hotelbeds_hotel_code": "HB030816",
+      "hotelbeds_hotel_name": "Flor Da Rocha",
+      "hotelbeds_total_rooms": 20,
+      "axisdata_hotel_code": "HB000005",
+      "axisdata_hotel_name": "Flor da Rocha",
+      "axisdata_total_rooms": 5,
+      "room_matches": [
+        {
+          "similarity_score": 0.8038965627706969,
+          "hotelbeds_room_code": "APT-B1",
+          "hotelbeds_room_id": "690ee4935cc56d5d8db3a396",
+          "hotelbeds_text": "apartment one bedroom",
+          "axisdata_room_code": "APSDT20000",
+          "axisdata_room_id": "6908a87d6f4760ffdd6e4f60",
+          "axisdata_text": "2 bedroom standard apartment"
+        },
+        {
+          "similarity_score": 0.9251595857946016,
+          "hotelbeds_room_code": "APT-ST",
+          "hotelbeds_room_id": "690ee4935cc56d5d8db3a39f",
+          "hotelbeds_text": "apartment standard",
+          "axisdata_room_code": "APSD000000",
+          "axisdata_room_id": "6908a87d6f4760ffdd6e4f62",
+          "axisdata_text": "standard apartment"
+        }
+      ],
+      "unmatched_hotelbeds_rooms": [
+        {
+          "room_code": "APT-B1-1",
+          "room_id": "690ee4935cc56d5d8db3a397",
+          "text": "apartment one bedroom",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-B1-C2",
+          "room_id": "690ee4935cc56d5d8db3a398",
+          "text": "apartment capacity 2 one bedroom",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-B2",
+          "room_id": "690ee4935cc56d5d8db3a399",
+          "text": "apartment two bedrooms",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-B2-1",
+          "room_id": "690ee4935cc56d5d8db3a39a",
+          "text": "apartment two bedrooms",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-B2-C4",
+          "room_id": "690ee4935cc56d5d8db3a39b",
+          "text": "apartment capacity 4 two bedrooms",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-C2",
+          "room_id": "690ee4935cc56d5d8db3a39c",
+          "text": "apartment capacity 2",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "APT-C4",
+          "room_id": "690ee4935cc56d5d8db3a39d",
+          "text": "apartment capacity 4",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-C6",
+          "room_id": "690ee4935cc56d5d8db3a39e",
+          "text": "apartment capacity 6",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DBL-2D",
+          "room_id": "690ee4935cc56d5d8db3a3a0",
+          "text": "double two double beds",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "DUS-ST",
+          "room_id": "690ee4935cc56d5d8db3a3a1",
+          "text": "double single use standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "ROO-B2",
+          "room_id": "690ee4935cc56d5d8db3a3a2",
+          "text": "room two bedrooms",
+          "reason": "no_match_found"
+        },
+        {
+          "room_code": "ROO-H6",
+          "room_id": "690ee4935cc56d5d8db3a3a3",
+          "text": "room accessible",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "ROO-RO",
+          "room_id": "690ee4935cc56d5d8db3a3a4",
+          "text": "room run of house",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "ROO-ST",
+          "room_id": "690ee4935cc56d5d8db3a3a5",
+          "text": "room standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "SGL-ST",
+          "room_id": "690ee4935cc56d5d8db3a3a6",
+          "text": "single standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST",
+          "room_id": "690ee4935cc56d5d8db3a3a7",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "SUI-H6",
+          "room_id": "690ee4935cc56d5d8db3a3a8",
+          "text": "suite accessible",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "SUI-ST",
+          "room_id": "690ee4935cc56d5d8db3a3a9",
+          "text": "suite standard",
+          "reason": "below_threshold"
+        }
+      ],
+      "unmatched_axisdata_rooms": [
+        {
+          "room_code": "APSDT2000P",
+          "room_id": "6908a87d6f4760ffdd6e4f61",
+          "text": "2 bedroom standard apartment promotion",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "APSD00000P",
+          "room_id": "6908a87d6f4760ffdd6e4f63",
+          "text": "standard apartment promotion",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "APSDTW0000",
+          "room_id": "6908a87d6f4760ffdd6e4f64",
+          "text": "twin standard apartment",
+          "reason": "no_hotelbeds_match_found"
+        }
+      ]
+    },
+    {
+      "place_id": "ChIJzy8JSeEG5xQRb2idaClMJV4",
+      "confidence": 1.0,
+      "hotelbeds_hotel_code": "HB090090",
+      "hotelbeds_hotel_name": "Princessa Vera Hotel Apts",
+      "hotelbeds_total_rooms": 6,
+      "axisdata_hotel_code": "HB000003",
+      "axisdata_hotel_name": "Princessa Vera Hotel Apartments",
+      "axisdata_total_rooms": 3,
+      "room_matches": [],
+      "unmatched_hotelbeds_rooms": [
+        {
+          "room_code": "APT-B1-1",
+          "room_id": "690c9d1655b5b98d2d4381bd",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "APT-B1",
+          "room_id": "690c9d1655b5b98d2d4381be",
+          "text": "apartment one bedroom",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "ROO-EY",
+          "room_id": "690c9d1655b5b98d2d4381bf",
+          "text": "room economy",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST",
+          "room_id": "690c9d1655b5b98d2d4381c0",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-ST-1",
+          "room_id": "690c9d1655b5b98d2d4381c1",
+          "text": "studio standard",
+          "reason": "below_threshold"
+        },
+        {
+          "room_code": "STU-SU",
+          "room_id": "690c9d1655b5b98d2d4381c2",
+          "text": "studio superior",
+          "reason": "below_threshold"
+        }
+      ],
+      "unmatched_axisdata_rooms": [
+        {
+          "room_code": "STSD0000A0",
+          "room_id": "6908a87d6f4760ffdd6e4f57",
+          "text": "standard studio balcony or terrace",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "APSD000000",
+          "room_id": "6908a87d6f4760ffdd6e4f58",
+          "text": "standard apartment",
+          "reason": "no_hotelbeds_match_found"
+        },
+        {
+          "room_code": "STSP0000A0",
+          "room_id": "6908a87d6f4760ffdd6e4f59",
+          "text": "superior studio balcony or terrace",
+          "reason": "no_hotelbeds_match_found"
+        }
+      ]
+    }
+  ]
+}

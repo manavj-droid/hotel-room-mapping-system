@@ -1,0 +1,18 @@
+{
+  "start_time": "2025-11-18 18:08:56.153510",
+  "steps_completed": [
+    "load_data",
+    "normalize_data_skipped",
+    "generate_embeddings_google",
+    "match_hotels_rooms_google"
+  ],
+  "steps_failed": [
+    "enrich_data"
+  ],
+  "total_hotels_processed": 7,
+  "total_rooms_matched": 4,
+  "embedding_method": "google",
+  "output_file": "data/mapped/mapped_data_google.json",
+  "end_time": "2025-11-18 18:09:49.203645",
+  "total_duration": 53.050135
+}

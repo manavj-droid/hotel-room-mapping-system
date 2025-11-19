@@ -1,0 +1,2648 @@
+[
+  {
+    "rank": 1,
+    "similarity_score": 0.7131,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7128,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6943,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7559,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view one bedroom"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7218,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view one bedroom"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6149,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7602,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment capacity 4 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6403,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment capacity 4 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6376,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment capacity 4 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8659,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7462,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6772,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8659,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7462,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6772,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8659,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7462,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6772,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7262,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7118,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.661,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7005,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view three bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6878,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view three bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5789,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view three bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6962,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view capacity 4"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6888,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view capacity 4"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5915,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view capacity 4"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6103,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment economy"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5892,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment economy"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5892,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment economy"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.9252,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.9252,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.7821,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7131,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7128,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6943,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7131,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7128,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6943,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6387,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment with views"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6295,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment with views"
+    },
+    "axisdata": {
+      "room_code": "AP00T100B0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6259,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment with views"
+    },
+    "axisdata": {
+      "room_code": "AP00T200B0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7161,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment side sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7067,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment side sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6784,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "apartment side sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3714,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double classic"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.71,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6514,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.622,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.678,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6482,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5666,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3411,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3411,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5569,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4938,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4497,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T1SVB0",
+      "hotel_code": "HB000004",
+      "text": "1 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3898,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3141,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3141,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5263,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5263,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4365,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5218,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3974,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3572,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5218,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3974,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3572,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7451,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5115,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic sea view"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5108,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio classic sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4761,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio economy"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3652,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio economy"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3409,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio economy"
+    },
+    "axisdata": {
+      "room_code": "STSP0000A0",
+      "hotel_code": "HB000003",
+      "text": "superior studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7603,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5188,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5178,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7603,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5188,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5178,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7603,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5188,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5178,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7603,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5188,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5178,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "studio sea view"
+    },
+    "axisdata": {
+      "room_code": "AP00T2SVB0",
+      "hotel_code": "HB000004",
+      "text": "2 bedroom apartment seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3939,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "triple standard"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3696,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "triple standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3654,
+    "hotelbeds": {
+      "room_code": "9524",
+      "hotel_code": "HB005662",
+      "text": "triple standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5417,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "room economy"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5417,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "room economy"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5417,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "room economy"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5359,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio superior"
+    },
+    "axisdata": {
+      "room_code": "STSP0000A0",
+      "hotel_code": "HB000003",
+      "text": "superior studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4826,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio superior"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3816,
+    "hotelbeds": {
+      "room_code": "372989",
+      "hotel_code": "HB090090",
+      "text": "studio superior"
+    },
+    "axisdata": {
+      "room_code": "ST0000SVB0",
+      "hotel_code": "HB000004",
+      "text": "studio seaview balcony"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8039,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6838,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8528,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7154,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6331,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2 one bedroom"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8659,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7462,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6772,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.8659,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7462,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6772,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7991,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4 two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.694,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4 two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6159,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4 two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7712,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6669,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6601,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 2"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6992,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6632,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6632,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 4"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6658,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 6"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6563,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 6"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6563,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment capacity 6"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.9252,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.9252,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.7821,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "apartment standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5023,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double two double beds"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4168,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double two double beds"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.409,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double two double beds"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3898,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSDTW0000",
+      "hotel_code": "HB000005",
+      "text": "twin standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3141,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3141,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "double single use standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.752,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT20000",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6452,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "APSDT2000P",
+      "hotel_code": "HB000005",
+      "text": "2 bedroom standard apartment promotion"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.611,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room two bedrooms"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.7268,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room accessible"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.7268,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room accessible"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.7268,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room accessible"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.6285,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room run of house"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.6682,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.6682,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.5987,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "room standard"
+    },
+    "axisdata": {
+      "room_code": "",
+      "hotel_code": "HB000002",
+      "text": "unknown room"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.5263,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.5263,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4365,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "single standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.4555,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "ST000000B0",
+      "hotel_code": "HB000004",
+      "text": "studio balcony"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.4319,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "STSD0000A0",
+      "hotel_code": "HB000003",
+      "text": "standard studio balcony or terrace"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.4253,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "studio standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 1,
+    "similarity_score": 0.3969,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "suite standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000003",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 2,
+    "similarity_score": 0.3969,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "suite standard"
+    },
+    "axisdata": {
+      "room_code": "APSD000000",
+      "hotel_code": "HB000005",
+      "text": "standard apartment"
+    }
+  },
+  {
+    "rank": 3,
+    "similarity_score": 0.3513,
+    "hotelbeds": {
+      "room_code": "133785",
+      "hotel_code": "HB030816",
+      "text": "suite standard"
+    },
+    "axisdata": {
+      "room_code": "APSD00000P",
+      "hotel_code": "HB000005",
+      "text": "standard apartment promotion"
+    }
+  }
+]

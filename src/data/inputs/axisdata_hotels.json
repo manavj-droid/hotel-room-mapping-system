@@ -1,0 +1,579 @@
+[
+    {
+      "_id": {
+        "oid": "6908a87e70eeec1303b39d52"
+      },
+      "placeId": "ChIJAzM6FfvLGg0Rjgh5fevP8w0",
+      "hotelCode": "HB000004",
+      "name": "Soldoiro",
+      "rooms": [
+        {
+          "id": "6908a87d6f4760ffdd6e4f5a",
+          "name": "1 Bedroom Apartment (SeaView, Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "4",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "2",
+            "ID": "AP00T1SVB0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "AP00T1SVB0",
+          "description": "1 Bedroom Apartment (SeaView, Balcony)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f5b",
+          "name": "2 Bedroom Apartment (Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "6",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "6",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "3",
+            "ID": "AP00T200B0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "AP00T200B0",
+          "description": "2 Bedroom Apartment (Balcony)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f5c",
+          "name": "2 Bedroom Apartment (SeaView, Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "6",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "6",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "3",
+            "ID": "AP00T2SVB0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "AP00T2SVB0",
+          "description": "2 Bedroom Apartment (SeaView, Balcony)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f5d",
+          "name": "Studio (Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "2",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "2",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "1",
+            "ID": "ST000000B0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "ST000000B0",
+          "description": "Studio (Balcony)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f5e",
+          "name": "1 Bedroom Apartment (Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "4",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "2",
+            "ID": "AP00T100B0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "AP00T100B0",
+          "description": "1 Bedroom Apartment (Balcony)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f5f",
+          "name": "Studio (SeaView, Balcony)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT0042",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "2",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "2",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxChildAge": "2",
+            "MaxChildOccupancy": "1",
+            "ID": "ST0000SVB0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "ST0000SVB0",
+          "description": "Studio (SeaView, Balcony)"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "oid": "6908a87e70eeec1303b39d51"
+      },
+      "placeId": "ChIJzy8JSeEG5xQRb2idaClMJV4",
+      "hotelCode": "HB000003",
+      "name": "Princessa Vera Hotel Apartments",
+      "rooms": [
+        {
+          "id": "6908a87d6f4760ffdd6e4f57",
+          "name": "Standard Studio (Balcony or Terrace)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "ACYPFO4N7U",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "3",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "2",
+            "InfantOccupancy": "0",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "0",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "14",
+            "MaxChildOccupancy": "1",
+            "ID": "STSD0000A0",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "STSD0000A0",
+          "description": "Standard Studio (Balcony or Terrace)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f58",
+          "name": "Standard Apartment",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "ACYPFO4N7U",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "4",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "14",
+            "MaxChildOccupancy": "2",
+            "ID": "APSD000000",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": "APSD000000",
+          "description": "Standard Apartment"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f59",
+          "name": "Superior Studio (Balcony or Terrace)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "ACYPFO4N7U",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "3",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "3",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "14",
+            "MaxChildOccupancy": "1",
+            "ID": "STSP0000A0",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": "STSP0000A0",
+          "description": "Superior Studio (Balcony or Terrace)"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "oid": "6908a87e70eeec1303b39d53"
+      },
+      "placeId": "ChIJM2yEZeEoGw0RnWoWB17Mur0",
+      "hotelCode": "HB000005",
+      "name": "Flor da Rocha",
+      "rooms": [
+        {
+          "id": "6908a87d6f4760ffdd6e4f60",
+          "name": "2 Bedroom Standard Apartment",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT17O6",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "6",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "6",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "2",
+            "MaxChildAge": "12",
+            "MaxChildOccupancy": "2",
+            "ID": "APSDT20000",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": "APSDT20000",
+          "description": "2 Bedroom Standard Apartment"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f61",
+          "name": "2 Bedroom Standard Apartment (Promotion)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT17O6",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "6",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "6",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "11",
+            "MaxChildOccupancy": "2",
+            "ID": "APSDT2000P",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": "APSDT2000P",
+          "description": "2 Bedroom Standard Apartment (Promotion)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f62",
+          "name": "Standard Apartment",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT17O6",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "4",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "2",
+            "MaxChildAge": "12",
+            "MaxChildOccupancy": "2",
+            "ID": "APSD000000",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "APSD000000",
+          "description": "Standard Apartment"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f63",
+          "name": "Standard Apartment (Promotion)",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT17O6",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "1",
+            "MinAdultOccupancy": "1",
+            "MaxAdultOccupancy": "4",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "11",
+            "MaxChildOccupancy": "2",
+            "ID": "APSD00000P",
+            "StandardOccupancy": "1"
+          },
+          "prices": null,
+          "code": "APSD00000P",
+          "description": "Standard Apartment (Promotion)"
+        },
+        {
+          "id": "6908a87d6f4760ffdd6e4f64",
+          "name": "Twin Standard Apartment",
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AMTSPT17O6",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "2",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "2",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "2",
+            "MaxChildAge": "12",
+            "ID": "APSDTW0000",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": "APSDTW0000",
+          "description": "Twin Standard Apartment"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "oid": "6908a87e70eeec1303b39d50"
+      },
+      "placeId": "ChIJxR502U4nmBIRzbNYIzOi7hI",
+      "hotelCode": "HB000002",
+      "name": "Aldea 2 Cala Fornells",
+      "rooms": [
+        {
+          "id": "6908a87c6f4760ffdd6e4f52",
+          "name": null,
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AESPMI46P2",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "3",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "12",
+            "MaxChildOccupancy": "2",
+            "ID": "APSD00SVB0",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": null,
+          "description": null
+        },
+        {
+          "id": "6908a87c6f4760ffdd6e4f53",
+          "name": null,
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AESPMI46P2",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "3",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "12",
+            "MaxChildOccupancy": "2",
+            "ID": "APSD0000B0",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": null,
+          "description": null
+        },
+        {
+          "id": "6908a87c6f4760ffdd6e4f54",
+          "name": null,
+          "providers": [
+            {
+              "id": "662b7e48eb4eb35669213a2d",
+              "name": "axisData",
+              "code": "AESPMI46P2",
+              "mappingMethod": "google_places",
+              "mappingRemark": "mapping_with_all"
+            }
+          ],
+          
+          "occupancies": {
+            "MaxOccupancy": "4",
+            "MinOccupancy": "2",
+            "MinAdultOccupancy": "2",
+            "MaxAdultOccupancy": "3",
+            "InfantOccupancy": "1",
+            "MinInfantOccupancy": "0",
+            "MaxInfantOccupancy": "1",
+            "MinChildOccupancy": "0",
+            "MaxInfantAge": "1",
+            "MaxChildAge": "12",
+            "MaxChildOccupancy": "2",
+            "ID": "APSP00SVB0",
+            "StandardOccupancy": "2"
+          },
+          "prices": null,
+          "code": null,
+          "description": null
+        }
+      ]
+    }
+  ]
