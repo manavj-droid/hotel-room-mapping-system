@@ -17,7 +17,7 @@
 # # CONFIGURATION
 # # ========================================================================
 
-# GOOGLE_API_KEY = "AIzaSyA-pV4ZwGDD_rtFnK5IeJuxzV6J_jVzDg4"
+# GOOGLE_API_KEY = ""
 
 # # Input files
 # HOTELBEDS_HOTELS_JSON = Path("data/outputs/hotelbed_norm_data.json")
@@ -523,7 +523,7 @@ logging.basicConfig(
 # CONFIGURATION
 # ========================================================================
 
-GOOGLE_API_KEY = "AIzaSyA-pV4ZwGDD_rtFnK5IeJuxzV6J_jVzDg4"
+GOOGLE_API_KEY = ""
 
 HOTELBEDS_HOTELS_JSON = Path("data/outputs/hotelbed_norm_data.json")
 AXISDATA_HOTELS_JSON = Path("data/outputs/axisdata_norm_data.json")
@@ -538,10 +538,6 @@ BATCH_SIZE = 30
 RATE_LIMIT_DELAY = 1.0
 
 INCLUDE_OCCUPANCY_IN_EMBEDDING = True
-
-# ========================================================================
-# OCCUPANCY TEXT FORMATTER
-# ========================================================================
 
 class OccupancyFormatter:
     COMMON_FIELDS = [
