@@ -1,433 +1,441 @@
-[
-  {
-    "hotel_id": "6908a87e70eeec1303b39d52",
-    "place_id": "ChIJAzM6FfvLGg0Rjgh5fevP8w0",
-    "hotel_code": "HB000004",
-    "hotel_name": "Soldoiro",
-    "normalized_hotel_name": "soldoiro",
-    "rooms": [
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5a",
-        "room_code": "AP00T1SVB0",
-        "room_name": "1 Bedroom Apartment (SeaView, Balcony)",
-        "room_description": "1 Bedroom Apartment (SeaView, Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 4,
-          "min_adults": 1,
-          "max_adults": 4,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+{
+  "hotels": [
+    {
+      "hotel_id": "6908a87e70eeec1303b39d52",
+      "place_id": "ChIJAzM6FfvLGg0Rjgh5fevP8w0",
+      "hotel_code": "HB000004",
+      "hotel_name": "Soldoiro",
+      "normalized_hotel_name": "soldoiro",
+      "rooms": [
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5a",
+          "room_code": "AP00T1SVB0",
+          "room_name": "1 Bedroom Apartment (SeaView, Balcony)",
+          "room_description": "1 Bedroom Apartment (SeaView, Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 4,
+            "min_adults": 1,
+            "max_adults": 4,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "1 bedroom apartment seaview balcony",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "1 bedroom apartment seaview balcony",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5b",
-        "room_code": "AP00T200B0",
-        "room_name": "2 Bedroom Apartment (Balcony)",
-        "room_description": "2 Bedroom Apartment (Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 6,
-          "min_adults": 1,
-          "max_adults": 6,
-          "min_children": 0,
-          "max_children": 3,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5b",
+          "room_code": "AP00T200B0",
+          "room_name": "2 Bedroom Apartment (Balcony)",
+          "room_description": "2 Bedroom Apartment (Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 6,
+            "min_adults": 1,
+            "max_adults": 6,
+            "min_children": 0,
+            "max_children": 3,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "2 bedroom apartment balcony",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "2 bedroom apartment balcony",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5c",
-        "room_code": "AP00T2SVB0",
-        "room_name": "2 Bedroom Apartment (SeaView, Balcony)",
-        "room_description": "2 Bedroom Apartment (SeaView, Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 6,
-          "min_adults": 1,
-          "max_adults": 6,
-          "min_children": 0,
-          "max_children": 3,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5c",
+          "room_code": "AP00T2SVB0",
+          "room_name": "2 Bedroom Apartment (SeaView, Balcony)",
+          "room_description": "2 Bedroom Apartment (SeaView, Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 6,
+            "min_adults": 1,
+            "max_adults": 6,
+            "min_children": 0,
+            "max_children": 3,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "2 bedroom apartment seaview balcony",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "2 bedroom apartment seaview balcony",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5d",
-        "room_code": "ST000000B0",
-        "room_name": "Studio (Balcony)",
-        "room_description": "Studio (Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 2,
-          "min_adults": 1,
-          "max_adults": 2,
-          "min_children": 0,
-          "max_children": 1,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5d",
+          "room_code": "ST000000B0",
+          "room_name": "Studio (Balcony)",
+          "room_description": "Studio (Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 2,
+            "min_adults": 1,
+            "max_adults": 2,
+            "min_children": 0,
+            "max_children": 1,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "studio balcony",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "studio balcony",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5e",
-        "room_code": "AP00T100B0",
-        "room_name": "1 Bedroom Apartment (Balcony)",
-        "room_description": "1 Bedroom Apartment (Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 4,
-          "min_adults": 1,
-          "max_adults": 4,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5e",
+          "room_code": "AP00T100B0",
+          "room_name": "1 Bedroom Apartment (Balcony)",
+          "room_description": "1 Bedroom Apartment (Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 4,
+            "min_adults": 1,
+            "max_adults": 4,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "1 bedroom apartment balcony",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "1 bedroom apartment balcony",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f5f",
-        "room_code": "ST0000SVB0",
-        "room_name": "Studio (SeaView, Balcony)",
-        "room_description": "Studio (SeaView, Balcony)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 2,
-          "min_adults": 1,
-          "max_adults": 2,
-          "min_children": 0,
-          "max_children": 1,
-          "max_child_age": 2,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": null,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f5f",
+          "room_code": "ST0000SVB0",
+          "room_name": "Studio (SeaView, Balcony)",
+          "room_description": "Studio (SeaView, Balcony)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 2,
+            "min_adults": 1,
+            "max_adults": 2,
+            "min_children": 0,
+            "max_children": 1,
+            "max_child_age": 2,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": null,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT0042",
+          "normalized_description": "studio seaview balcony",
+          "normalized_code_description": null
+        }
+      ],
+      "source": "axisdata"
+    },
+    {
+      "hotel_id": "6908a87e70eeec1303b39d51",
+      "place_id": "ChIJzy8JSeEG5xQRb2idaClMJV4",
+      "hotel_code": "HB000003",
+      "hotel_name": "Princessa Vera Hotel Apartments",
+      "normalized_hotel_name": "princessa vera hotel apartments",
+      "rooms": [
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f57",
+          "room_code": "STSD0000A0",
+          "room_name": "Standard Studio (Balcony or Terrace)",
+          "room_description": "Standard Studio (Balcony or Terrace)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 3,
+            "min_adults": 1,
+            "max_adults": 2,
+            "min_children": 0,
+            "max_children": 1,
+            "max_child_age": 14,
+            "min_infants": 0,
+            "max_infants": 0,
+            "max_infant_age": 1,
+            "standard_occupancy": 1
+          },
+          "provider_code": "ACYPFO4N7U",
+          "normalized_description": "standard studio balcony or terrace",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT0042",
-        "normalized_description": "studio seaview balcony",
-        "normalized_code_description": null
-      }
-    ],
-    "source": "axisdata"
-  },
-  {
-    "hotel_id": "6908a87e70eeec1303b39d51",
-    "place_id": "ChIJzy8JSeEG5xQRb2idaClMJV4",
-    "hotel_code": "HB000003",
-    "hotel_name": "Princessa Vera Hotel Apartments",
-    "normalized_hotel_name": "princessa vera hotel apartments",
-    "rooms": [
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f57",
-        "room_code": "STSD0000A0",
-        "room_name": "Standard Studio (Balcony or Terrace)",
-        "room_description": "Standard Studio (Balcony or Terrace)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 3,
-          "min_adults": 1,
-          "max_adults": 2,
-          "min_children": 0,
-          "max_children": 1,
-          "max_child_age": 14,
-          "min_infants": 0,
-          "max_infants": 0,
-          "max_infant_age": 1,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f58",
+          "room_code": "APSD000000",
+          "room_name": "Standard Apartment",
+          "room_description": "Standard Apartment",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 4,
+            "min_adults": 2,
+            "max_adults": 4,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 14,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "ACYPFO4N7U",
+          "normalized_description": "standard apartment",
+          "normalized_code_description": null
         },
-        "provider_code": "ACYPFO4N7U",
-        "normalized_description": "standard studio balcony or terrace",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f58",
-        "room_code": "APSD000000",
-        "room_name": "Standard Apartment",
-        "room_description": "Standard Apartment",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 4,
-          "min_adults": 2,
-          "max_adults": 4,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 14,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f59",
+          "room_code": "STSP0000A0",
+          "room_name": "Superior Studio (Balcony or Terrace)",
+          "room_description": "Superior Studio (Balcony or Terrace)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 3,
+            "min_adults": 2,
+            "max_adults": 3,
+            "min_children": 0,
+            "max_children": 1,
+            "max_child_age": 14,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "ACYPFO4N7U",
+          "normalized_description": "superior studio balcony or terrace",
+          "normalized_code_description": null
+        }
+      ],
+      "source": "axisdata"
+    },
+    {
+      "hotel_id": "6908a87e70eeec1303b39d53",
+      "place_id": "ChIJM2yEZeEoGw0RnWoWB17Mur0",
+      "hotel_code": "HB000005",
+      "hotel_name": "Flor da Rocha",
+      "normalized_hotel_name": "flor da rocha",
+      "rooms": [
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f60",
+          "room_code": "APSDT20000",
+          "room_name": "2 Bedroom Standard Apartment",
+          "room_description": "2 Bedroom Standard Apartment",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 6,
+            "min_adults": 2,
+            "max_adults": 6,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 2,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AMTSPT17O6",
+          "normalized_description": "2 bedroom standard apartment",
+          "normalized_code_description": null
         },
-        "provider_code": "ACYPFO4N7U",
-        "normalized_description": "standard apartment",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f59",
-        "room_code": "STSP0000A0",
-        "room_name": "Superior Studio (Balcony or Terrace)",
-        "room_description": "Superior Studio (Balcony or Terrace)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 3,
-          "min_adults": 2,
-          "max_adults": 3,
-          "min_children": 0,
-          "max_children": 1,
-          "max_child_age": 14,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f61",
+          "room_code": "APSDT2000P",
+          "room_name": "2 Bedroom Standard Apartment (Promotion)",
+          "room_description": "2 Bedroom Standard Apartment (Promotion)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 6,
+            "min_adults": 2,
+            "max_adults": 6,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 11,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AMTSPT17O6",
+          "normalized_description": "2 bedroom standard apartment promotion",
+          "normalized_code_description": null
         },
-        "provider_code": "ACYPFO4N7U",
-        "normalized_description": "superior studio balcony or terrace",
-        "normalized_code_description": null
-      }
-    ],
-    "source": "axisdata"
-  },
-  {
-    "hotel_id": "6908a87e70eeec1303b39d53",
-    "place_id": "ChIJM2yEZeEoGw0RnWoWB17Mur0",
-    "hotel_code": "HB000005",
-    "hotel_name": "Flor da Rocha",
-    "normalized_hotel_name": "flor da rocha",
-    "rooms": [
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f60",
-        "room_code": "APSDT20000",
-        "room_name": "2 Bedroom Standard Apartment",
-        "room_description": "2 Bedroom Standard Apartment",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 6,
-          "min_adults": 2,
-          "max_adults": 6,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 2,
-          "standard_occupancy": 2
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f62",
+          "room_code": "APSD000000",
+          "room_name": "Standard Apartment",
+          "room_description": "Standard Apartment",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 4,
+            "min_adults": 1,
+            "max_adults": 4,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 2,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT17O6",
+          "normalized_description": "standard apartment",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT17O6",
-        "normalized_description": "2 bedroom standard apartment",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f61",
-        "room_code": "APSDT2000P",
-        "room_name": "2 Bedroom Standard Apartment (Promotion)",
-        "room_description": "2 Bedroom Standard Apartment (Promotion)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 6,
-          "min_adults": 2,
-          "max_adults": 6,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 11,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f63",
+          "room_code": "APSD00000P",
+          "room_name": "Standard Apartment (Promotion)",
+          "room_description": "Standard Apartment (Promotion)",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 1,
+            "max_occupancy": 4,
+            "min_adults": 1,
+            "max_adults": 4,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 11,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 1
+          },
+          "provider_code": "AMTSPT17O6",
+          "normalized_description": "standard apartment promotion",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT17O6",
-        "normalized_description": "2 bedroom standard apartment promotion",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f62",
-        "room_code": "APSD000000",
-        "room_name": "Standard Apartment",
-        "room_description": "Standard Apartment",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 4,
-          "min_adults": 1,
-          "max_adults": 4,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 2,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87d6f4760ffdd6e4f64",
+          "room_code": "APSDTW0000",
+          "room_name": "Twin Standard Apartment",
+          "room_description": "Twin Standard Apartment",
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 2,
+            "min_adults": 2,
+            "max_adults": 2,
+            "min_children": 0,
+            "max_children": 0,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 2,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AMTSPT17O6",
+          "normalized_description": "twin standard apartment",
+          "normalized_code_description": null
+        }
+      ],
+      "source": "axisdata"
+    },
+    {
+      "hotel_id": "6908a87e70eeec1303b39d50",
+      "place_id": "ChIJxR502U4nmBIRzbNYIzOi7hI",
+      "hotel_code": "HB000002",
+      "hotel_name": "Aldea 2 Cala Fornells",
+      "normalized_hotel_name": "aldea 2 cala fornells",
+      "rooms": [
+        {
+          "room_id": "6908a87c6f4760ffdd6e4f52",
+          "room_code": null,
+          "room_name": null,
+          "room_description": null,
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 4,
+            "min_adults": 2,
+            "max_adults": 3,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AESPMI46P2",
+          "normalized_description": "",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT17O6",
-        "normalized_description": "standard apartment",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f63",
-        "room_code": "APSD00000P",
-        "room_name": "Standard Apartment (Promotion)",
-        "room_description": "Standard Apartment (Promotion)",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 1,
-          "max_occupancy": 4,
-          "min_adults": 1,
-          "max_adults": 4,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 11,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 1
+        {
+          "room_id": "6908a87c6f4760ffdd6e4f53",
+          "room_code": null,
+          "room_name": null,
+          "room_description": null,
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 4,
+            "min_adults": 2,
+            "max_adults": 3,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AESPMI46P2",
+          "normalized_description": "",
+          "normalized_code_description": null
         },
-        "provider_code": "AMTSPT17O6",
-        "normalized_description": "standard apartment promotion",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87d6f4760ffdd6e4f64",
-        "room_code": "APSDTW0000",
-        "room_name": "Twin Standard Apartment",
-        "room_description": "Twin Standard Apartment",
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 2,
-          "min_adults": 2,
-          "max_adults": 2,
-          "min_children": 0,
-          "max_children": 0,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 2,
-          "standard_occupancy": 2
-        },
-        "provider_code": "AMTSPT17O6",
-        "normalized_description": "twin standard apartment",
-        "normalized_code_description": null
-      }
-    ],
-    "source": "axisdata"
-  },
-  {
-    "hotel_id": "6908a87e70eeec1303b39d50",
-    "place_id": "ChIJxR502U4nmBIRzbNYIzOi7hI",
-    "hotel_code": "HB000002",
-    "hotel_name": "Aldea 2 Cala Fornells",
-    "normalized_hotel_name": "aldea 2 cala fornells",
-    "rooms": [
-      {
-        "room_id": "6908a87c6f4760ffdd6e4f52",
-        "room_code": null,
-        "room_name": null,
-        "room_description": null,
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 4,
-          "min_adults": 2,
-          "max_adults": 3,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
-        },
-        "provider_code": "AESPMI46P2",
-        "normalized_description": "",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87c6f4760ffdd6e4f53",
-        "room_code": null,
-        "room_name": null,
-        "room_description": null,
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 4,
-          "min_adults": 2,
-          "max_adults": 3,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
-        },
-        "provider_code": "AESPMI46P2",
-        "normalized_description": "",
-        "normalized_code_description": null
-      },
-      {
-        "room_id": "6908a87c6f4760ffdd6e4f54",
-        "room_code": null,
-        "room_name": null,
-        "room_description": null,
-        "code_description": "",
-        "occupancy": {
-          "min_occupancy": 2,
-          "max_occupancy": 4,
-          "min_adults": 2,
-          "max_adults": 3,
-          "min_children": 0,
-          "max_children": 2,
-          "max_child_age": 12,
-          "min_infants": 0,
-          "max_infants": 1,
-          "max_infant_age": 1,
-          "standard_occupancy": 2
-        },
-        "provider_code": "AESPMI46P2",
-        "normalized_description": "",
-        "normalized_code_description": null
-      }
-    ],
+        {
+          "room_id": "6908a87c6f4760ffdd6e4f54",
+          "room_code": null,
+          "room_name": null,
+          "room_description": null,
+          "code_description": "",
+          "occupancy": {
+            "min_occupancy": 2,
+            "max_occupancy": 4,
+            "min_adults": 2,
+            "max_adults": 3,
+            "min_children": 0,
+            "max_children": 2,
+            "max_child_age": 12,
+            "min_infants": 0,
+            "max_infants": 1,
+            "max_infant_age": 1,
+            "standard_occupancy": 2
+          },
+          "provider_code": "AESPMI46P2",
+          "normalized_description": "",
+          "normalized_code_description": null
+        }
+      ],
+      "source": "axisdata"
+    }
+  ],
+  "metadata": {
+    "total_count": 4,
+    "total_rooms": 17,
+    "total_rooms_with_occupancy": 17,
     "source": "axisdata"
   }
-]
+}

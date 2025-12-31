@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "timestamp": "2025-11-18T18:07:12.993763",
+    "timestamp": "2025-11-21T11:19:07.839199",
     "similarity_threshold": 0.75,
     "matching_strategy": "rank_1_only",
     "model": "all-MiniLM-L6-v2",

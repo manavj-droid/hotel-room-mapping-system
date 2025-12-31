@@ -1,0 +1,17 @@
+{
+  "start_time": "2025-11-21 11:09:30.231765",
+  "steps_completed": [
+    "load_data",
+    "enrich_data_skipped",
+    "normalize_data_skipped",
+    "generate_embeddings_skipped",
+    "match_hotels_rooms_sentence-transformers"
+  ],
+  "steps_failed": [],
+  "total_hotels_processed": 7,
+  "total_rooms_matched": 4,
+  "embedding_method": "sentence-transformers",
+  "output_file": "data/mapped/mapped_data.json",
+  "end_time": "2025-11-21 11:09:30.447899",
+  "total_duration": 0.216134
+}

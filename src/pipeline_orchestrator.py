@@ -40,7 +40,7 @@ class PipelineConfig:
     AD_ROOM_EMB = EMBEDDINGS_DIR / "axisdata_room_embeddings.json"
 
     # Google embeddings output paths
-    GOOGLE_EMBEDDINGS_DIR = Path("data/google_embeddings")
+    GOOGLE_EMBEDDINGS_DIR = Path("data/google_embedings")
     GOOGLE_HB_HOTEL_EMB = GOOGLE_EMBEDDINGS_DIR / "hotelbeds_hotel_embeddings_google.json"
     GOOGLE_HB_ROOM_EMB = GOOGLE_EMBEDDINGS_DIR / "hotelbeds_room_embeddings_google.json"
     GOOGLE_AD_HOTEL_EMB = GOOGLE_EMBEDDINGS_DIR / "axisdata_hotel_embeddings_google.json"

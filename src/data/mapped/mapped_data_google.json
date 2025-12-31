@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "timestamp": "2025-11-19T08:31:17.759647",
+    "timestamp": "2025-11-21T11:30:29.775344",
     "similarity_threshold": 0.9,
     "matching_strategy": "rank_1_with_occupancy_validation",
     "model": "google/text-embedding-004",
